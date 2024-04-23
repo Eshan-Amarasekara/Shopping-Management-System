@@ -1,0 +1,4 @@
+
+ Product Id: C2, Product Name: Tshirt, Product Type: Clothing, Price: 100.0, Size: 'S, Colour : red, Available Items: 50
+
+ Product Id: E10, Product Name: Phone, Product Type: Electronics, Price: 500.0, Brand: 'Apple, Warranty Period: 6, Available Items: 15
